@@ -1,0 +1,10 @@
+C:\Users\ssalefske\Downloads\podcast-example\ExamplePodCastParser\obj\Debug\ExamplePodCastParser.exe
+C:\Users\ssalefske\Downloads\podcast-example\ExamplePodCastParser\obj\Debug\ExamplePodCastParser.pdb
+C:\Users\ssalefske\Downloads\podcast-example\ExamplePodCastParser\bin\Debug\ExamplePodCastParser.exe
+C:\Users\ssalefske\Downloads\podcast-example\ExamplePodCastParser\bin\Debug\ExamplePodCastParser.pdb
+C:\Users\ssalefske\Downloads\podcast-example\ExamplePodCastParser\obj\Debug\ExamplePodCastParser.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\podcast-example\ExamplePodCastParser\obj\Debug\ExamplePodCastParser.exe
+C:\Users\Sam\Desktop\podcast-example\ExamplePodCastParser\obj\Debug\ExamplePodCastParser.pdb
+C:\Users\Sam\Desktop\podcast-example\ExamplePodCastParser\obj\Debug\ExamplePodCastParser.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\podcast-example\ExamplePodCastParser\bin\Debug\ExamplePodCastParser.exe
+C:\Users\Sam\Desktop\podcast-example\ExamplePodCastParser\bin\Debug\ExamplePodCastParser.pdb
