@@ -8,3 +8,9 @@ C:\Users\Sam\Desktop\podcast-example\ExamplePodCastParser\obj\Debug\ExamplePodCa
 C:\Users\Sam\Desktop\podcast-example\ExamplePodCastParser\obj\Debug\ExamplePodCastParser.csprojResolveAssemblyReference.cache
 C:\Users\Sam\Desktop\podcast-example\ExamplePodCastParser\bin\Debug\ExamplePodCastParser.exe
 C:\Users\Sam\Desktop\podcast-example\ExamplePodCastParser\bin\Debug\ExamplePodCastParser.pdb
+C:\SalefSam_Development\PodcastDownloader\ExamplePodCastParser\bin\Debug\ExamplePodCastParser.exe.config
+C:\SalefSam_Development\PodcastDownloader\ExamplePodCastParser\bin\Debug\ExamplePodCastParser.exe
+C:\SalefSam_Development\PodcastDownloader\ExamplePodCastParser\bin\Debug\ExamplePodCastParser.pdb
+C:\SalefSam_Development\PodcastDownloader\ExamplePodCastParser\obj\Debug\ExamplePodCastParser.csprojResolveAssemblyReference.cache
+C:\SalefSam_Development\PodcastDownloader\ExamplePodCastParser\obj\Debug\ExamplePodCastParser.exe
+C:\SalefSam_Development\PodcastDownloader\ExamplePodCastParser\obj\Debug\ExamplePodCastParser.pdb
