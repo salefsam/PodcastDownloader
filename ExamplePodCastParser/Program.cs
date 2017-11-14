@@ -30,7 +30,7 @@ namespace ExamplePodCastParser
             DownloadPodcasts(doc, items, "http://podcasts.ape-apps.com/my-colony-podcast/feed.xml", "My Colony");
             DownloadPodcasts(doc, items, "http://feeds.stownpodcast.org/stownpodcast", "STownPodcast");
             DownloadPodcasts(doc, items, "http://feed.thisamericanlife.org/talpodcast", "This American Life");
-            DownloadPodcasts(doc, items, "http://lifelistened.com/feed/the-mom-hour/", "The Mom Hour");
+            //DownloadPodcasts(doc, items, "http://lifelistened.com/feed/the-mom-hour/", "The Mom Hour");
             DownloadPodcasts(doc, items, "http://feeds.feedburner.com/SlateMomAndDadAreFighting", "Mom And Dad Are Fighting");
             DownloadPodcasts(doc, items, "https://rss.art19.com/the-longest-shortest-time", "The Longest Shortest Time");
             DownloadPodcasts(doc, items, "https://www.npr.org/rss/podcast.php?id=510321", "Wow In The World");
@@ -51,7 +51,7 @@ namespace ExamplePodCastParser
             DownloadPodcasts(doc, items, "http://s.ch9.ms/Shows/Visual-Studio-Toolbox/feed/mp3", "Visual Studio Toolbox");
             DownloadPodcasts(doc, items, "https://www.npr.org/rss/podcast.php?id=510289", "Planet Money");
             DownloadPodcasts(doc, items, "https://rss.art19.com/my-favorite-murder-with-karen-kilgariff-and-georgia-hardstark-fb", "My Favorite Murder");
-
+            DownloadPodcasts(doc, items, "http://casefile.libsyn.com/rss", "Casefile");
 
             /*
              * Not Working
